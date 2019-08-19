@@ -1,0 +1,977 @@
+"Date","Type","Queries"
+2018-08-01,"Post-Revocation and Pre-Removal",135.833333333333
+2018-08-05,"Post-Revocation and Pre-Removal",101.833333333333
+2018-08-08,"Post-Revocation and Pre-Removal",108.5
+2018-08-08,"Post-Roll and Pre-Revocation",28.25
+2018-08-11,"Post-Revocation and Pre-Removal",103
+2018-08-12,"Post-Revocation and Pre-Removal",103
+2018-08-12,"Post-Roll and Pre-Revocation",21.75
+2018-08-15,"Post-Revocation and Pre-Removal",123.333333333333
+2018-08-15,"Post-Roll and Pre-Revocation",25.25
+2018-08-17,"Post-Revocation and Pre-Removal",139.333333333333
+2018-08-18,"Post-Revocation and Pre-Removal",120
+2018-08-19,"Post-Revocation and Pre-Removal",127.833333333333
+2018-08-21,"Post-Roll / Pre-Revocation and Post-Removal",25.75
+2018-08-23,"Post-Revocation and Pre-Removal",104.166666666667
+2018-08-25,"Post-Revocation and Pre-Removal",107.5
+2018-08-26,"Post-Revocation and Pre-Removal",90.5
+2018-08-28,"Post-Revocation and Pre-Removal",104.666666666667
+2018-08-30,"Post-Revocation and Pre-Removal",110.5
+2018-08-31,"Post-Revocation and Pre-Removal",105.833333333333
+2018-09-01,"Post-Revocation and Pre-Removal",103
+2018-09-02,"Post-Revocation and Pre-Removal",99.8333333333333
+2018-09-03,"Post-Revocation and Pre-Removal",108.666666666667
+2018-09-04,"Post-Revocation and Pre-Removal",114
+2018-09-07,"Post-Revocation and Pre-Removal",113.5
+2018-09-07,"Post-Roll / Pre-Revocation and Post-Removal",24
+2018-09-10,"Post-Revocation and Pre-Removal",111.166666666667
+2018-09-10,"Post-Roll / Pre-Revocation and Post-Removal",22.25
+2018-09-14,"Post-Revocation and Pre-Removal",140.166666666667
+2018-09-15,"Post-Roll and Pre-Revocation",13.25
+2018-09-16,"Post-Revocation and Pre-Removal",107.166666666667
+2018-09-18,"Post-Revocation and Pre-Removal",114.333333333333
+2018-09-23,"Post-Revocation and Pre-Removal",119
+2018-09-25,"Post-Revocation and Pre-Removal",139.5
+2018-09-27,"Post-Revocation and Pre-Removal",125.833333333333
+2018-09-28,"Post-Roll / Pre-Revocation and Post-Removal",25.25
+2018-10-02,"Post-Revocation and Pre-Removal",114.833333333333
+2018-10-04,"Post-Revocation and Pre-Removal",129
+2018-10-06,"Post-Revocation and Pre-Removal",128.833333333333
+2018-10-06,"Post-Roll / Pre-Revocation and Post-Removal",30.25
+2018-10-06,"Post-Removal",11
+2018-10-07,"Post-Revocation and Pre-Removal",116.833333333333
+2018-10-08,"Post-Revocation and Pre-Removal",123.333333333333
+2018-10-09,"Post-Removal",8.5
+2018-10-09,"Post-Roll and Pre-Revocation",15.75
+2018-10-11,"Post-Revocation and Pre-Removal",433.166666666667
+2018-10-12,"Post-Revocation and Pre-Removal",1539.5
+2018-10-12,"Post-Roll / Pre-Revocation and Post-Removal",19312.5
+2018-10-13,"Post-Revocation and Pre-Removal",1308.33333333333
+2018-10-13,"Post-Roll / Pre-Revocation and Post-Removal",23757
+2018-10-14,"Post-Revocation and Pre-Removal",1516.83333333333
+2018-10-15,"Post-Revocation and Pre-Removal",1801
+2018-10-16,"Post-Revocation and Pre-Removal",1859.83333333333
+2018-10-17,"Post-Revocation and Pre-Removal",1782.5
+2018-10-19,"Post-Roll and Pre-Revocation",14904.5
+2018-10-21,"Post-Revocation and Pre-Removal",1292
+2018-10-22,"Post-Revocation and Pre-Removal",1078.5
+2018-10-24,"Post-Revocation and Pre-Removal",618.666666666667
+2018-10-25,"Post-Revocation and Pre-Removal",585.833333333333
+2018-10-25,"Post-Roll / Pre-Revocation and Post-Removal",41090.75
+2018-10-26,"Post-Revocation and Pre-Removal",613
+2018-10-27,"Post-Revocation and Pre-Removal",579.333333333333
+2018-10-27,"Post-Removal",7.5
+2018-10-28,"Post-Revocation and Pre-Removal",519
+2018-10-28,"Post-Roll / Pre-Revocation and Post-Removal",45759
+2018-10-29,"Post-Revocation and Pre-Removal",623.5
+2018-10-30,"Post-Revocation and Pre-Removal",503
+2018-11-02,"Post-Revocation and Pre-Removal",527.5
+2018-11-03,"Post-Revocation and Pre-Removal",585.833333333333
+2018-11-03,"Post-Removal",9.5
+2018-11-05,"Post-Revocation and Pre-Removal",815.833333333333
+2018-11-07,"Post-Revocation and Pre-Removal",647
+2018-11-08,"Post-Revocation and Pre-Removal",641.166666666667
+2018-11-10,"Post-Revocation and Pre-Removal",563
+2018-11-11,"Post-Revocation and Pre-Removal",582.833333333333
+2018-11-14,"Post-Revocation and Pre-Removal",777.333333333333
+2018-11-15,"Post-Revocation and Pre-Removal",750.666666666667
+2018-11-16,"Post-Revocation and Pre-Removal",716.166666666667
+2018-11-17,"Post-Revocation and Pre-Removal",736.666666666667
+2018-11-18,"Post-Roll / Pre-Revocation and Post-Removal",47619.5
+2018-11-19,"Post-Roll / Pre-Revocation and Post-Removal",40105.25
+2018-11-20,"Post-Revocation and Pre-Removal",908.833333333333
+2018-11-20,"Post-Roll / Pre-Revocation and Post-Removal",40269.5
+2018-11-23,"Post-Revocation and Pre-Removal",656.333333333333
+2018-11-23,"Post-Removal",152
+2018-11-25,"Post-Revocation and Pre-Removal",654.833333333333
+2018-11-26,"Post-Revocation and Pre-Removal",714.666666666667
+2018-11-27,"Post-Revocation and Pre-Removal",428
+2018-11-28,"Post-Revocation and Pre-Removal",254.666666666667
+2018-11-29,"Post-Roll and Pre-Revocation",54146
+2018-11-30,"Post-Revocation and Pre-Removal",268.666666666667
+2018-12-01,"Post-Revocation and Pre-Removal",195.333333333333
+2018-12-02,"Post-Revocation and Pre-Removal",194.166666666667
+2018-12-02,"Post-Removal",9.75
+2018-12-03,"Post-Revocation and Pre-Removal",209.166666666667
+2018-12-04,"Post-Revocation and Pre-Removal",198.5
+2018-12-04,"Post-Roll / Pre-Revocation and Post-Removal",41370.75
+2018-12-05,"Post-Revocation and Pre-Removal",192.666666666667
+2018-12-06,"Post-Roll and Pre-Revocation",44853.5
+2018-12-07,"Post-Revocation and Pre-Removal",196
+2018-12-08,"Post-Revocation and Pre-Removal",188.833333333333
+2018-12-09,"Post-Revocation and Pre-Removal",188.333333333333
+2018-12-09,"Post-Roll / Pre-Revocation and Post-Removal",49289
+2018-12-10,"Post-Revocation and Pre-Removal",188
+2018-12-13,"Post-Revocation and Pre-Removal",190.333333333333
+2018-12-14,"Post-Revocation and Pre-Removal",187.166666666667
+2018-12-16,"Post-Revocation and Pre-Removal",177.333333333333
+2018-12-17,"Post-Removal",8.25
+2018-12-18,"Post-Revocation and Pre-Removal",190.666666666667
+2018-12-19,"Post-Revocation and Pre-Removal",184
+2018-12-20,"Post-Roll / Pre-Revocation and Post-Removal",38022
+2018-12-21,"Post-Revocation and Pre-Removal",187
+2018-12-24,"Post-Revocation and Pre-Removal",186
+2018-12-26,"Post-Roll / Pre-Revocation and Post-Removal",46821
+2018-12-27,"Post-Revocation and Pre-Removal",178.5
+2018-12-28,"Post-Revocation and Pre-Removal",189.333333333333
+2018-12-29,"Post-Revocation and Pre-Removal",176.833333333333
+2018-12-30,"Post-Revocation and Pre-Removal",177.833333333333
+2018-12-31,"Post-Revocation and Pre-Removal",186.5
+2019-01-01,"Post-Roll / Pre-Revocation and Post-Removal",45643.75
+2019-01-01,"Post-Revocation and Pre-Removal",186
+2019-01-06,"Post-Revocation and Pre-Removal",192.833333333333
+2019-01-07,"Post-Revocation and Pre-Removal",216
+2019-01-07,"Post-Roll / Pre-Revocation and Post-Removal",46051.25
+2019-01-08,"Post-Revocation and Pre-Removal",206
+2019-01-12,"Post-Revocation and Pre-Removal",1492770.33333333
+2019-01-13,"Post-Revocation and Pre-Removal",1505646.16666667
+2019-01-14,"Post-Revocation and Pre-Removal",1454861.66666667
+2019-01-15,"Post-Revocation and Pre-Removal",1461121.33333333
+2019-01-16,"Post-Roll / Pre-Revocation and Post-Removal",918.75
+2019-01-17,"Post-Revocation and Pre-Removal",1762923.5
+2019-01-19,"Post-Roll and Pre-Revocation",15.25
+2019-01-20,"Post-Roll and Pre-Revocation",17.75
+2019-01-21,"Post-Revocation and Pre-Removal",2915768.33333333
+2019-01-22,"Post-Revocation and Pre-Removal",2854398.16666667
+2019-01-24,"Post-Revocation and Pre-Removal",2976875.16666667
+2019-01-24,"Post-Removal",7
+2019-01-26,"Post-Revocation and Pre-Removal",3058738
+2019-01-29,"Post-Revocation and Pre-Removal",3035506.66666667
+2019-02-01,"Post-Revocation and Pre-Removal",3062821.83333333
+2019-02-01,"Post-Roll / Pre-Revocation and Post-Removal",828
+2019-02-01,"Post-Roll and Pre-Revocation",14.5
+2019-02-02,"Post-Revocation and Pre-Removal",3416505.33333333
+2019-02-03,"Post-Roll and Pre-Revocation",19.5
+2019-02-05,"Post-Revocation and Pre-Removal",3324615.33333333
+2019-02-05,"Post-Roll and Pre-Revocation",14
+2019-02-06,"Post-Revocation and Pre-Removal",3282503.16666667
+2019-02-08,"Post-Revocation and Pre-Removal",3301815.66666667
+2019-02-08,"Post-Roll and Pre-Revocation",13
+2019-02-09,"Post-Revocation and Pre-Removal",3295753.16666667
+2019-02-10,"Post-Revocation and Pre-Removal",3315423.33333333
+2019-02-10,"Post-Roll and Pre-Revocation",14
+2019-02-13,"Post-Revocation and Pre-Removal",3333055.83333333
+2019-02-13,"Post-Roll and Pre-Revocation",16.75
+2019-02-14,"Post-Revocation and Pre-Removal",3861010
+2019-02-17,"Post-Revocation and Pre-Removal",4591877.66666667
+2019-02-18,"Post-Revocation and Pre-Removal",4378816.16666667
+2019-02-19,"Post-Revocation and Pre-Removal",4570099.5
+2019-02-20,"Post-Revocation and Pre-Removal",4376802.83333333
+2019-02-21,"Post-Revocation and Pre-Removal",4408429
+2019-02-22,"Post-Revocation and Pre-Removal",4381912.16666667
+2019-02-24,"Post-Revocation and Pre-Removal",4368641.66666667
+2019-02-25,"Post-Roll / Pre-Revocation and Post-Removal",1213.75
+2019-02-26,"Post-Revocation and Pre-Removal",4276565.16666667
+2019-02-27,"Post-Revocation and Pre-Removal",4496714.83333333
+2019-02-28,"Post-Roll / Pre-Revocation and Post-Removal",844
+2019-03-01,"Post-Revocation and Pre-Removal",4405155.5
+2019-03-02,"Post-Revocation and Pre-Removal",4070015.83333333
+2019-03-04,"Post-Revocation and Pre-Removal",3886288.5
+2019-03-04,"Post-Roll and Pre-Revocation",14.75
+2019-03-05,"Post-Revocation and Pre-Removal",3915651
+2019-03-06,"Post-Revocation and Pre-Removal",3521111.16666667
+2019-03-07,"Post-Revocation and Pre-Removal",3506899
+2019-03-08,"Post-Revocation and Pre-Removal",3550947.16666667
+2019-03-09,"Post-Roll / Pre-Revocation and Post-Removal",932
+2019-03-10,"Post-Revocation and Pre-Removal",3631027.33333333
+2019-03-11,"Post-Revocation and Pre-Removal",3448502.16666667
+2019-03-11,"Post-Roll / Pre-Revocation and Post-Removal",1091.5
+2019-03-16,"Post-Roll and Pre-Revocation",15
+2019-03-17,"Post-Revocation and Pre-Removal",3219245.5
+2019-03-18,"Post-Revocation and Pre-Removal",3236116.5
+2019-03-19,"Post-Revocation and Pre-Removal",3283150.33333333
+2019-03-20,"Post-Revocation and Pre-Removal",2809836.83333333
+2019-03-21,"Post-Revocation and Pre-Removal",2831650.83333333
+2019-03-26,"Post-Revocation and Pre-Removal",288.833333333333
+2019-03-27,"Post-Revocation and Pre-Removal",185.166666666667
+2019-03-27,"Post-Roll / Pre-Revocation and Post-Removal",55701.75
+2019-03-28,"Post-Revocation and Pre-Removal",177.5
+2019-03-29,"Post-Revocation and Pre-Removal",148.333333333333
+2019-03-30,"Post-Revocation and Pre-Removal",206.4
+2018-08-03,"Post-Revocation and Pre-Removal",107.833333333333
+2018-08-04,"Post-Revocation and Pre-Removal",101.333333333333
+2018-08-05,"Post-Roll and Pre-Revocation",26
+2018-08-06,"Post-Revocation and Pre-Removal",103.833333333333
+2018-08-07,"Post-Revocation and Pre-Removal",117.833333333333
+2018-08-10,"Post-Revocation and Pre-Removal",110.333333333333
+2018-08-14,"Post-Revocation and Pre-Removal",114.166666666667
+2018-08-16,"Post-Revocation and Pre-Removal",132.166666666667
+2018-08-20,"Post-Revocation and Pre-Removal",138
+2018-08-21,"Post-Revocation and Pre-Removal",130.333333333333
+2018-08-24,"Post-Revocation and Pre-Removal",109.333333333333
+2018-08-27,"Post-Revocation and Pre-Removal",107.333333333333
+2018-08-28,"Post-Roll and Pre-Revocation",26.25
+2018-08-28,"Post-Removal",9.25
+2018-08-29,"Post-Revocation and Pre-Removal",109
+2018-08-30,"Post-Roll / Pre-Revocation and Post-Removal",25.25
+2018-09-01,"Post-Roll and Pre-Revocation",25.5
+2018-09-06,"Post-Revocation and Pre-Removal",110.166666666667
+2018-09-09,"Post-Roll / Pre-Revocation and Post-Removal",23.25
+2018-09-09,"Post-Revocation and Pre-Removal",103.666666666667
+2018-09-11,"Post-Revocation and Pre-Removal",116.166666666667
+2018-09-13,"Post-Revocation and Pre-Removal",105.333333333333
+2018-09-17,"Post-Revocation and Pre-Removal",107.166666666667
+2018-09-18,"Post-Roll / Pre-Revocation and Post-Removal",35.25
+2018-09-19,"Post-Revocation and Pre-Removal",122.833333333333
+2018-09-20,"Post-Revocation and Pre-Removal",132.666666666667
+2018-09-21,"Post-Revocation and Pre-Removal",120.333333333333
+2018-09-22,"Post-Revocation and Pre-Removal",122.333333333333
+2018-09-23,"Post-Roll / Pre-Revocation and Post-Removal",38.75
+2018-09-23,"Post-Removal",9
+2018-09-24,"Post-Revocation and Pre-Removal",129.666666666667
+2018-09-26,"Post-Revocation and Pre-Removal",126.833333333333
+2018-09-29,"Post-Revocation and Pre-Removal",129.166666666667
+2018-10-02,"Post-Roll / Pre-Revocation and Post-Removal",24.75
+2018-10-03,"Post-Revocation and Pre-Removal",149.833333333333
+2018-10-09,"Post-Roll / Pre-Revocation and Post-Removal",26.5
+2018-10-10,"Post-Roll / Pre-Revocation and Post-Removal",26.25
+2018-10-16,"Post-Removal",64
+2018-10-19,"Post-Revocation and Pre-Removal",1003.83333333333
+2018-10-19,"Post-Roll / Pre-Revocation and Post-Removal",29115.5
+2018-10-27,"Post-Roll and Pre-Revocation",48420.25
+2018-11-01,"Post-Revocation and Pre-Removal",493.666666666667
+2018-11-03,"Post-Roll / Pre-Revocation and Post-Removal",46772
+2018-11-04,"Post-Roll / Pre-Revocation and Post-Removal",49011.75
+2018-11-06,"Post-Revocation and Pre-Removal",614.333333333333
+2018-11-09,"Post-Revocation and Pre-Removal",688
+2018-11-09,"Post-Removal",9.25
+2018-11-09,"Post-Roll and Pre-Revocation",52255.5
+2018-11-13,"Post-Roll / Pre-Revocation and Post-Removal",48366.25
+2018-11-16,"Post-Roll and Pre-Revocation",49855.5
+2018-11-21,"Post-Revocation and Pre-Removal",791.666666666667
+2018-11-22,"Post-Revocation and Pre-Removal",683.333333333333
+2018-11-22,"Post-Removal",177
+2018-11-23,"Post-Roll and Pre-Revocation",51613.75
+2018-11-24,"Post-Revocation and Pre-Removal",709.5
+2018-11-24,"Post-Roll / Pre-Revocation and Post-Removal",40169
+2018-11-25,"Post-Roll / Pre-Revocation and Post-Removal",41804
+2018-11-28,"Post-Roll / Pre-Revocation and Post-Removal",33364
+2018-11-29,"Post-Revocation and Pre-Removal",374.666666666667
+2018-12-05,"Post-Removal",8.5
+2018-12-06,"Post-Revocation and Pre-Removal",278.833333333333
+2018-12-07,"Post-Roll / Pre-Revocation and Post-Removal",42304.5
+2018-12-07,"Post-Roll and Pre-Revocation",50171.25
+2018-12-08,"Post-Roll / Pre-Revocation and Post-Removal",49737.5
+2018-12-10,"Post-Roll / Pre-Revocation and Post-Removal",45077.75
+2018-12-12,"Post-Roll and Pre-Revocation",49815
+2018-12-17,"Post-Roll / Pre-Revocation and Post-Removal",36113
+2018-12-18,"Post-Removal",9.75
+2018-12-20,"Post-Revocation and Pre-Removal",176.5
+2018-12-22,"Post-Revocation and Pre-Removal",190.833333333333
+2018-12-22,"Post-Roll / Pre-Revocation and Post-Removal",40119.75
+2018-12-23,"Post-Revocation and Pre-Removal",216.5
+2018-12-24,"Post-Roll / Pre-Revocation and Post-Removal",44463.5
+2018-12-25,"Post-Revocation and Pre-Removal",184.666666666667
+2018-12-25,"Post-Roll / Pre-Revocation and Post-Removal",48385.75
+2019-01-03,"Post-Roll and Pre-Revocation",56178.25
+2019-01-04,"Post-Revocation and Pre-Removal",188.166666666667
+2019-01-05,"Post-Revocation and Pre-Removal",191.5
+2019-01-08,"Post-Roll and Pre-Revocation",57727.75
+2019-01-09,"Post-Revocation and Pre-Removal",192.5
+2019-01-10,"Post-Revocation and Pre-Removal",190.333333333333
+2019-01-11,"Post-Revocation and Pre-Removal",391856.166666667
+2019-01-11,"Post-Roll and Pre-Revocation",33388.5
+2019-01-16,"Post-Revocation and Pre-Removal",1431681.16666667
+2019-01-18,"Post-Revocation and Pre-Removal",2864786.66666667
+2019-01-19,"Post-Revocation and Pre-Removal",2848127
+2019-01-20,"Post-Revocation and Pre-Removal",2959203.66666667
+2019-01-23,"Post-Revocation and Pre-Removal",2928844.5
+2019-01-25,"Post-Roll / Pre-Revocation and Post-Removal",798.5
+2019-01-27,"Post-Revocation and Pre-Removal",3144816.66666667
+2019-01-28,"Post-Revocation and Pre-Removal",3047019.33333333
+2019-01-30,"Post-Revocation and Pre-Removal",3065445.83333333
+2019-02-03,"Post-Revocation and Pre-Removal",3421939.16666667
+2019-02-04,"Post-Revocation and Pre-Removal",3264707.5
+2019-02-07,"Post-Revocation and Pre-Removal",3155603
+2019-02-12,"Post-Revocation and Pre-Removal",3146180.5
+2019-02-16,"Post-Revocation and Pre-Removal",4383826
+2019-02-16,"Post-Removal",6.25
+2019-02-25,"Post-Revocation and Pre-Removal",4260561.33333333
+2019-02-28,"Post-Revocation and Pre-Removal",4546623
+2019-03-03,"Post-Revocation and Pre-Removal",4063628
+2019-03-04,"Post-Roll / Pre-Revocation and Post-Removal",1030.5
+2019-03-09,"Post-Revocation and Pre-Removal",3649593.16666667
+2019-03-10,"Post-Roll / Pre-Revocation and Post-Removal",1101.75
+2019-03-13,"Post-Roll / Pre-Revocation and Post-Removal",650.75
+2019-03-15,"Post-Revocation and Pre-Removal",3029287.33333333
+2019-03-16,"Post-Revocation and Pre-Removal",3252864.16666667
+2019-03-22,"Post-Revocation and Pre-Removal",2203922.5
+2019-03-23,"Post-Revocation and Pre-Removal",189.666666666667
+2019-03-24,"Post-Roll / Pre-Revocation and Post-Removal",47620.5
+2019-03-25,"Post-Revocation and Pre-Removal",191.666666666667
+2019-03-31,"Post-Roll and Pre-Revocation",16.25
+2019-04-01,"Post-Revocation and Pre-Removal",190.666666666667
+2018-08-02,"Post-Revocation and Pre-Removal",101
+2018-08-08,"Post-Roll / Pre-Revocation and Post-Removal",23.75
+2018-08-09,"Post-Revocation and Pre-Removal",104.333333333333
+2018-08-10,"Post-Roll and Pre-Revocation",27
+2018-08-12,"Post-Roll / Pre-Revocation and Post-Removal",27
+2018-08-14,"Post-Roll / Pre-Revocation and Post-Removal",22.25
+2018-08-22,"Post-Removal",12.75
+2018-09-05,"Post-Revocation and Pre-Removal",104.666666666667
+2018-09-08,"Post-Revocation and Pre-Removal",104.5
+2018-09-11,"Post-Roll and Pre-Revocation",20.5
+2018-09-13,"Post-Roll / Pre-Revocation and Post-Removal",25
+2018-09-14,"Post-Roll / Pre-Revocation and Post-Removal",35.5
+2018-09-28,"Post-Revocation and Pre-Removal",134.833333333333
+2018-10-01,"Post-Revocation and Pre-Removal",124.666666666667
+2018-10-05,"Post-Revocation and Pre-Removal",120.333333333333
+2018-10-08,"Post-Roll / Pre-Revocation and Post-Removal",29
+2018-10-11,"Post-Roll and Pre-Revocation",13
+2018-10-12,"Post-Roll and Pre-Revocation",16149
+2018-10-20,"Post-Revocation and Pre-Removal",912.5
+2018-10-23,"Post-Revocation and Pre-Removal",616.5
+2018-10-26,"Post-Roll and Pre-Revocation",44266.25
+2018-10-30,"Post-Removal",9.5
+2018-10-31,"Post-Roll and Pre-Revocation",40461.75
+2018-11-04,"Post-Revocation and Pre-Removal",747.5
+2018-11-05,"Post-Roll and Pre-Revocation",44313.75
+2018-11-13,"Post-Revocation and Pre-Removal",795.166666666667
+2018-11-15,"Post-Roll / Pre-Revocation and Post-Removal",52981.5
+2018-11-18,"Post-Revocation and Pre-Removal",731.166666666667
+2018-11-19,"Post-Revocation and Pre-Removal",776.5
+2018-11-27,"Post-Roll / Pre-Revocation and Post-Removal",37645
+2018-11-27,"Post-Roll and Pre-Revocation",64848.25
+2018-12-01,"Post-Roll / Pre-Revocation and Post-Removal",47245.5
+2018-12-08,"Post-Roll and Pre-Revocation",48304.25
+2018-12-11,"Post-Revocation and Pre-Removal",197.833333333333
+2018-12-12,"Post-Revocation and Pre-Removal",227.666666666667
+2018-12-14,"Post-Roll and Pre-Revocation",63190
+2018-12-15,"Post-Revocation and Pre-Removal",181.833333333333
+2018-12-19,"Post-Roll / Pre-Revocation and Post-Removal",38092.5
+2018-12-26,"Post-Revocation and Pre-Removal",242.833333333333
+2018-12-30,"Post-Roll / Pre-Revocation and Post-Removal",45967
+2018-12-30,"Post-Removal",9
+2019-01-02,"Post-Revocation and Pre-Removal",192.666666666667
+2019-01-02,"Post-Roll / Pre-Revocation and Post-Removal",48926.25
+2019-01-03,"Post-Revocation and Pre-Removal",200.5
+2019-01-06,"Post-Roll / Pre-Revocation and Post-Removal",43235.75
+2019-01-09,"Post-Roll / Pre-Revocation and Post-Removal",51182.25
+2019-01-10,"Post-Removal",9.75
+2019-01-12,"Post-Roll / Pre-Revocation and Post-Removal",781.5
+2019-01-12,"Post-Roll and Pre-Revocation",20.5
+2019-01-15,"Post-Roll / Pre-Revocation and Post-Removal",630.25
+2019-01-23,"Post-Removal",6.25
+2019-01-25,"Post-Revocation and Pre-Removal",2941525.33333333
+2019-01-27,"Post-Roll / Pre-Revocation and Post-Removal",787.75
+2019-02-09,"Post-Roll / Pre-Revocation and Post-Removal",803.25
+2019-02-13,"Post-Roll / Pre-Revocation and Post-Removal",22.25
+2019-02-15,"Post-Revocation and Pre-Removal",3856245.66666667
+2019-02-15,"Post-Roll / Pre-Revocation and Post-Removal",21.75
+2019-02-17,"Post-Roll / Pre-Revocation and Post-Removal",643
+2019-02-23,"Post-Removal",4.75
+2019-03-06,"Post-Roll and Pre-Revocation",17
+2019-03-12,"Post-Revocation and Pre-Removal",2962836
+2019-03-12,"Post-Roll and Pre-Revocation",14
+2019-03-14,"Post-Revocation and Pre-Removal",3151887.5
+2019-03-15,"Post-Roll / Pre-Revocation and Post-Removal",587.75
+2019-03-23,"Post-Roll / Pre-Revocation and Post-Removal",28184.75
+2019-03-24,"Post-Revocation and Pre-Removal",201.2
+2019-03-31,"Post-Revocation and Pre-Removal",162.833333333333
+2018-08-03,"Post-Roll / Pre-Revocation and Post-Removal",26.25
+2018-08-06,"Post-Roll / Pre-Revocation and Post-Removal",25.75
+2018-08-06,"Post-Removal",11
+2018-08-06,"Post-Roll and Pre-Revocation",25.25
+2018-08-09,"Post-Roll / Pre-Revocation and Post-Removal",19.5
+2018-08-10,"Post-Roll / Pre-Revocation and Post-Removal",23.5
+2018-08-13,"Post-Revocation and Pre-Removal",102
+2018-08-22,"Post-Roll / Pre-Revocation and Post-Removal",28.5
+2018-08-23,"Post-Roll / Pre-Revocation and Post-Removal",24.25
+2018-08-24,"Post-Roll / Pre-Revocation and Post-Removal",26.5
+2018-08-24,"Post-Removal",7.75
+2018-08-28,"Post-Roll / Pre-Revocation and Post-Removal",23.75
+2018-08-31,"Post-Removal",9.25
+2018-09-06,"Post-Roll / Pre-Revocation and Post-Removal",25.25
+2018-09-10,"Post-Roll and Pre-Revocation",22.5
+2018-09-11,"Post-Roll / Pre-Revocation and Post-Removal",28
+2018-09-12,"Post-Revocation and Pre-Removal",103.166666666667
+2018-09-12,"Post-Roll / Pre-Revocation and Post-Removal",25.5
+2018-09-12,"Post-Roll and Pre-Revocation",18.75
+2018-09-15,"Post-Revocation and Pre-Removal",100
+2018-09-17,"Post-Roll / Pre-Revocation and Post-Removal",35.25
+2018-10-03,"Post-Roll and Pre-Revocation",14
+2018-10-10,"Post-Revocation and Pre-Removal",119.666666666667
+2018-10-14,"Post-Removal",39.5
+2018-10-23,"Post-Roll / Pre-Revocation and Post-Removal",47331.25
+2018-10-29,"Post-Roll and Pre-Revocation",47498.5
+2018-10-31,"Post-Roll / Pre-Revocation and Post-Removal",38439.5
+2018-11-05,"Post-Roll / Pre-Revocation and Post-Removal",46577.25
+2018-11-14,"Post-Roll / Pre-Revocation and Post-Removal",48600.25
+2018-11-21,"Post-Roll and Pre-Revocation",57829.5
+2018-11-23,"Post-Roll / Pre-Revocation and Post-Removal",45715.5
+2018-11-25,"Post-Roll and Pre-Revocation",69391
+2018-12-02,"Post-Roll / Pre-Revocation and Post-Removal",45753.25
+2018-12-04,"Post-Removal",12.75
+2018-12-05,"Post-Roll / Pre-Revocation and Post-Removal",43203.5
+2018-12-06,"Post-Roll / Pre-Revocation and Post-Removal",37878.75
+2018-12-11,"Post-Roll / Pre-Revocation and Post-Removal",35367.75
+2018-12-16,"Post-Roll / Pre-Revocation and Post-Removal",40283
+2018-12-17,"Post-Revocation and Pre-Removal",185.833333333333
+2018-12-19,"Post-Removal",8.75
+2019-01-06,"Post-Roll and Pre-Revocation",67608.25
+2019-01-13,"Post-Roll and Pre-Revocation",14.25
+2019-02-04,"Post-Roll / Pre-Revocation and Post-Removal",920.5
+2019-02-07,"Post-Roll / Pre-Revocation and Post-Removal",746.25
+2019-02-07,"Post-Removal",3.75
+2019-02-07,"Post-Roll and Pre-Revocation",15
+2019-02-10,"Post-Roll / Pre-Revocation and Post-Removal",468.25
+2019-02-11,"Post-Revocation and Pre-Removal",3378697.33333333
+2019-02-11,"Post-Roll / Pre-Revocation and Post-Removal",24.25
+2019-02-17,"Post-Roll and Pre-Revocation",15.75
+2019-02-23,"Post-Revocation and Pre-Removal",4367814.83333333
+2019-03-01,"Post-Removal",5.75
+2019-03-13,"Post-Roll and Pre-Revocation",18
+2019-03-17,"Post-Roll / Pre-Revocation and Post-Removal",409
+2019-03-18,"Post-Roll / Pre-Revocation and Post-Removal",382.75
+2019-03-21,"Post-Roll and Pre-Revocation",13.75
+2018-08-03,"Post-Removal",9.5
+2018-08-07,"Post-Roll / Pre-Revocation and Post-Removal",27
+2018-08-13,"Post-Removal",6.25
+2018-08-22,"Post-Revocation and Pre-Removal",124.5
+2018-08-25,"Post-Roll / Pre-Revocation and Post-Removal",24.75
+2018-09-01,"Post-Roll / Pre-Revocation and Post-Removal",27
+2018-09-04,"Post-Roll / Pre-Revocation and Post-Removal",28.75
+2018-09-06,"Post-Removal",7
+2018-09-13,"Post-Roll and Pre-Revocation",15.5
+2018-09-19,"Post-Roll / Pre-Revocation and Post-Removal",30.5
+2018-09-21,"Post-Roll / Pre-Revocation and Post-Removal",37.25
+2018-09-30,"Post-Revocation and Pre-Removal",123.666666666667
+2018-10-01,"Post-Roll / Pre-Revocation and Post-Removal",33.25
+2018-10-02,"Post-Removal",9
+2018-10-04,"Post-Roll and Pre-Revocation",14.75
+2018-10-14,"Post-Roll / Pre-Revocation and Post-Removal",26455.75
+2018-10-18,"Post-Revocation and Pre-Removal",1178.83333333333
+2018-10-21,"Post-Roll / Pre-Revocation and Post-Removal",41313.5
+2018-10-22,"Post-Roll / Pre-Revocation and Post-Removal",44372.5
+2018-11-01,"Post-Roll / Pre-Revocation and Post-Removal",48555.75
+2018-11-12,"Post-Revocation and Pre-Removal",553.333333333333
+2018-11-28,"Post-Roll and Pre-Revocation",52991.75
+2018-12-03,"Post-Roll / Pre-Revocation and Post-Removal",42636.25
+2018-12-04,"Post-Roll and Pre-Revocation",47145.25
+2018-12-15,"Post-Roll / Pre-Revocation and Post-Removal",37791.25
+2018-12-22,"Post-Roll and Pre-Revocation",42102.5
+2018-12-23,"Post-Roll / Pre-Revocation and Post-Removal",44056.75
+2019-01-10,"Post-Roll / Pre-Revocation and Post-Removal",42627.25
+2019-01-11,"Post-Roll / Pre-Revocation and Post-Removal",22739.5
+2019-01-13,"Post-Roll / Pre-Revocation and Post-Removal",811.75
+2019-01-21,"Post-Roll / Pre-Revocation and Post-Removal",843.75
+2019-01-21,"Post-Removal",10.25
+2019-01-26,"Post-Roll / Pre-Revocation and Post-Removal",791.5
+2019-02-04,"Post-Removal",5.5
+2019-02-06,"Post-Roll / Pre-Revocation and Post-Removal",800.75
+2019-02-08,"Post-Roll / Pre-Revocation and Post-Removal",820
+2019-02-11,"Post-Removal",5.75
+2019-02-14,"Post-Removal",8.25
+2019-02-22,"Post-Roll / Pre-Revocation and Post-Removal",894.5
+2019-02-25,"Post-Removal",6.25
+2019-03-01,"Post-Roll / Pre-Revocation and Post-Removal",903.25
+2019-03-02,"Post-Roll / Pre-Revocation and Post-Removal",937.5
+2019-03-14,"Post-Roll and Pre-Revocation",17.75
+2019-03-20,"Post-Roll / Pre-Revocation and Post-Removal",544
+2019-03-22,"Post-Roll / Pre-Revocation and Post-Removal",5242
+2019-03-26,"Post-Roll / Pre-Revocation and Post-Removal",52110.25
+2018-08-02,"Post-Roll / Pre-Revocation and Post-Removal",24.5
+2018-08-05,"Post-Roll / Pre-Revocation and Post-Removal",27.75
+2018-08-09,"Post-Roll and Pre-Revocation",24.25
+2018-09-02,"Post-Roll and Pre-Revocation",18.5
+2018-10-05,"Post-Roll and Pre-Revocation",14
+2018-10-09,"Post-Revocation and Pre-Removal",133.833333333333
+2018-10-27,"Post-Roll / Pre-Revocation and Post-Removal",53263.5
+2018-10-30,"Post-Roll / Pre-Revocation and Post-Removal",43785.5
+2018-10-30,"Post-Roll and Pre-Revocation",41446.25
+2018-11-02,"Post-Roll / Pre-Revocation and Post-Removal",43188.25
+2018-11-02,"Post-Roll and Pre-Revocation",35897.25
+2018-11-14,"Post-Roll and Pre-Revocation",43829
+2018-11-19,"Post-Roll and Pre-Revocation",50546.5
+2018-11-24,"Post-Removal",9.25
+2018-12-05,"Post-Roll and Pre-Revocation",56962
+2018-12-14,"Post-Removal",8.5
+2018-12-16,"Post-Removal",10.25
+2018-12-27,"Post-Roll and Pre-Revocation",52941.25
+2019-01-01,"Post-Roll and Pre-Revocation",51701.5
+2019-01-08,"Post-Roll / Pre-Revocation and Post-Removal",44267.25
+2019-01-09,"Post-Roll and Pre-Revocation",65301.75
+2019-01-22,"Post-Roll / Pre-Revocation and Post-Removal",778
+2019-02-09,"Post-Roll and Pre-Revocation",16.75
+2019-03-03,"Post-Roll and Pre-Revocation",15
+2019-03-13,"Post-Revocation and Pre-Removal",3353185
+2019-03-16,"Post-Removal",4.25
+2019-03-29,"Post-Roll / Pre-Revocation and Post-Removal",64388.75
+2019-03-30,"Post-Roll / Pre-Revocation and Post-Removal",72583
+2019-04-01,"Post-Roll / Pre-Revocation and Post-Removal",60892.75
+2018-08-25,"Post-Roll and Pre-Revocation",21.25
+2018-08-26,"Post-Roll and Pre-Revocation",21.75
+2018-09-18,"Post-Roll and Pre-Revocation",12.25
+2018-09-20,"Post-Roll / Pre-Revocation and Post-Removal",40.5
+2018-09-22,"Post-Roll and Pre-Revocation",13.75
+2018-09-24,"Post-Roll / Pre-Revocation and Post-Removal",41
+2018-09-30,"Post-Roll / Pre-Revocation and Post-Removal",27.5
+2018-10-05,"Post-Roll / Pre-Revocation and Post-Removal",37.25
+2018-10-20,"Post-Roll and Pre-Revocation",13071
+2018-10-23,"Post-Removal",9.75
+2018-11-06,"Post-Removal",6.25
+2018-11-09,"Post-Roll / Pre-Revocation and Post-Removal",44458
+2018-11-17,"Post-Roll and Pre-Revocation",50741.5
+2018-11-30,"Post-Removal",9.25
+2018-11-30,"Post-Roll and Pre-Revocation",51066.75
+2018-12-13,"Post-Roll and Pre-Revocation",53613.25
+2018-12-14,"Post-Roll / Pre-Revocation and Post-Removal",41590
+2018-12-18,"Post-Roll / Pre-Revocation and Post-Removal",39098.75
+2018-12-26,"Post-Removal",7
+2018-12-28,"Post-Roll and Pre-Revocation",57675.75
+2018-12-29,"Post-Roll / Pre-Revocation and Post-Removal",43950
+2018-12-31,"Post-Roll / Pre-Revocation and Post-Removal",46752.5
+2019-01-10,"Post-Roll and Pre-Revocation",60061.5
+2019-01-31,"Post-Revocation and Pre-Removal",3084359
+2019-02-12,"Post-Removal",9.25
+2019-02-26,"Post-Roll and Pre-Revocation",19.75
+2019-02-27,"Post-Roll and Pre-Revocation",17.5
+2019-03-08,"Post-Removal",8.75
+2019-03-19,"Post-Roll and Pre-Revocation",18
+2019-03-19,"Post-Removal",5
+2019-03-20,"Post-Roll and Pre-Revocation",14.5
+2019-03-21,"Post-Roll / Pre-Revocation and Post-Removal",489.25
+2019-03-23,"Post-Roll and Pre-Revocation",18.25
+2019-03-25,"Post-Roll / Pre-Revocation and Post-Removal",36381.75
+2019-03-31,"Post-Roll / Pre-Revocation and Post-Removal",70298.75
+2018-08-01,"Post-Roll and Pre-Revocation",27.75
+2018-08-04,"Post-Roll / Pre-Revocation and Post-Removal",23.75
+2018-08-16,"Post-Roll / Pre-Revocation and Post-Removal",22.5
+2018-09-02,"Post-Roll / Pre-Revocation and Post-Removal",26
+2018-09-03,"Post-Roll / Pre-Revocation and Post-Removal",23
+2018-10-01,"Post-Roll and Pre-Revocation",13.75
+2018-10-03,"Post-Roll / Pre-Revocation and Post-Removal",23.75
+2018-10-04,"Post-Roll / Pre-Revocation and Post-Removal",26.5
+2018-10-18,"Post-Roll / Pre-Revocation and Post-Removal",28339
+2018-10-20,"Post-Roll / Pre-Revocation and Post-Removal",29985
+2018-10-29,"Post-Roll / Pre-Revocation and Post-Removal",41765.75
+2018-11-01,"Post-Roll and Pre-Revocation",54277.5
+2018-11-16,"Post-Roll / Pre-Revocation and Post-Removal",48670.5
+2018-11-20,"Post-Removal",5.75
+2018-11-26,"Post-Roll and Pre-Revocation",71016.5
+2018-12-29,"Post-Roll and Pre-Revocation",45638.5
+2019-01-04,"Post-Removal",8.75
+2019-01-04,"Post-Roll and Pre-Revocation",61308.5
+2019-01-14,"Post-Roll / Pre-Revocation and Post-Removal",851
+2019-01-19,"Post-Roll / Pre-Revocation and Post-Removal",783.75
+2019-02-02,"Post-Roll / Pre-Revocation and Post-Removal",766.5
+2019-02-05,"Post-Roll / Pre-Revocation and Post-Removal",776.75
+2019-02-19,"Post-Roll / Pre-Revocation and Post-Removal",955.25
+2019-02-20,"Post-Roll / Pre-Revocation and Post-Removal",1011.5
+2019-03-02,"Post-Roll and Pre-Revocation",17.75
+2019-03-03,"Post-Roll / Pre-Revocation and Post-Removal",956.25
+2019-03-05,"Post-Roll / Pre-Revocation and Post-Removal",974.25
+2019-03-07,"Post-Roll / Pre-Revocation and Post-Removal",915
+2019-03-13,"Post-Removal",6.75
+2019-03-25,"Post-Roll and Pre-Revocation",15
+2019-03-27,"Post-Roll and Pre-Revocation",15
+2018-08-02,"Post-Roll and Pre-Revocation",27.6666666666667
+2018-08-13,"Post-Roll / Pre-Revocation and Post-Removal",29.75
+2018-08-27,"Post-Removal",9.5
+2018-08-27,"Post-Roll and Pre-Revocation",20.5
+2018-08-31,"Post-Roll / Pre-Revocation and Post-Removal",21.5
+2018-09-06,"Post-Roll and Pre-Revocation",20.5
+2018-09-14,"Post-Removal",9.5
+2018-09-21,"Post-Removal",7
+2018-09-27,"Post-Roll / Pre-Revocation and Post-Removal",40.5
+2018-10-02,"Post-Roll and Pre-Revocation",11.5
+2018-10-11,"Post-Removal",9
+2018-10-24,"Post-Roll and Pre-Revocation",37939.25
+2018-10-31,"Post-Revocation and Pre-Removal",492
+2018-11-04,"Post-Removal",6
+2018-11-21,"Post-Roll / Pre-Revocation and Post-Removal",42302.75
+2018-11-26,"Post-Roll / Pre-Revocation and Post-Removal",50814.75
+2018-12-01,"Post-Roll and Pre-Revocation",58637.75
+2018-12-11,"Post-Roll and Pre-Revocation",54160.25
+2018-12-12,"Post-Roll / Pre-Revocation and Post-Removal",37411
+2018-12-13,"Post-Roll / Pre-Revocation and Post-Removal",37415.75
+2018-12-13,"Post-Removal",9.5
+2018-12-15,"Post-Roll and Pre-Revocation",53262
+2018-12-27,"Post-Roll / Pre-Revocation and Post-Removal",36347.75
+2019-01-22,"Post-Roll and Pre-Revocation",17.25
+2019-01-27,"Post-Roll and Pre-Revocation",11.25
+2019-01-29,"Post-Roll / Pre-Revocation and Post-Removal",690.25
+2019-02-28,"Post-Removal",4.25
+2019-02-28,"Post-Roll and Pre-Revocation",19.25
+2019-03-07,"Post-Roll and Pre-Revocation",16.75
+2019-03-09,"Post-Roll and Pre-Revocation",19.25
+2019-03-19,"Post-Roll / Pre-Revocation and Post-Removal",573.75
+2019-03-21,"Post-Removal",6.5
+2018-08-15,"Post-Roll / Pre-Revocation and Post-Removal",27.5
+2018-08-17,"Post-Roll and Pre-Revocation",27
+2018-08-20,"Post-Roll / Pre-Revocation and Post-Removal",32
+2018-08-27,"Post-Roll / Pre-Revocation and Post-Removal",25.25
+2018-09-03,"Post-Removal",8.75
+2018-09-15,"Post-Removal",6
+2018-09-22,"Post-Roll / Pre-Revocation and Post-Removal",24.5
+2018-09-24,"Post-Roll and Pre-Revocation",13.5
+2018-09-25,"Post-Roll / Pre-Revocation and Post-Removal",39
+2018-09-27,"Post-Removal",10
+2018-10-07,"Post-Roll and Pre-Revocation",11.5
+2018-10-11,"Post-Roll / Pre-Revocation and Post-Removal",2330.75
+2018-10-15,"Post-Roll / Pre-Revocation and Post-Removal",35328
+2018-10-25,"Post-Roll and Pre-Revocation",52152.25
+2018-10-26,"Post-Roll / Pre-Revocation and Post-Removal",49932.25
+2018-11-01,"Post-Removal",7.75
+2018-11-05,"Post-Removal",8
+2018-11-10,"Post-Roll / Pre-Revocation and Post-Removal",43340
+2018-11-11,"Post-Roll / Pre-Revocation and Post-Removal",39727.5
+2018-11-12,"Post-Roll / Pre-Revocation and Post-Removal",47100.75
+2018-11-22,"Post-Roll / Pre-Revocation and Post-Removal",50978.5
+2018-12-18,"Post-Roll and Pre-Revocation",52171.25
+2018-12-25,"Post-Roll and Pre-Revocation",60814.75
+2019-01-16,"Post-Roll and Pre-Revocation",17.75
+2019-01-16,"Post-Removal",8.5
+2019-01-18,"Post-Roll / Pre-Revocation and Post-Removal",781
+2019-01-28,"Post-Roll / Pre-Revocation and Post-Removal",833
+2019-02-03,"Post-Roll / Pre-Revocation and Post-Removal",846.75
+2019-02-18,"Post-Roll and Pre-Revocation",14
+2019-03-04,"Post-Removal",7.25
+2019-03-12,"Post-Roll / Pre-Revocation and Post-Removal",806.5
+2019-03-15,"Post-Removal",3.25
+2019-03-18,"Post-Roll and Pre-Revocation",11.75
+2019-03-28,"Post-Removal",23512
+2018-08-26,"Post-Roll / Pre-Revocation and Post-Removal",29.5
+2018-08-29,"Post-Roll and Pre-Revocation",21.25
+2018-08-30,"Post-Roll and Pre-Revocation",20.5
+2018-09-23,"Post-Roll and Pre-Revocation",16.25
+2018-10-07,"Post-Roll / Pre-Revocation and Post-Removal",28
+2018-10-10,"Post-Roll and Pre-Revocation",19.75
+2018-11-06,"Post-Roll / Pre-Revocation and Post-Removal",38486.75
+2018-11-07,"Post-Roll and Pre-Revocation",49368.75
+2018-11-17,"Post-Roll / Pre-Revocation and Post-Removal",43878.5
+2018-11-17,"Post-Removal",8.5
+2018-11-20,"Post-Roll and Pre-Revocation",50725
+2019-01-30,"Post-Roll and Pre-Revocation",12.75
+2019-02-12,"Post-Roll / Pre-Revocation and Post-Removal",19
+2019-02-27,"Post-Roll / Pre-Revocation and Post-Removal",960
+2019-03-18,"Post-Removal",2.75
+2019-03-22,"Post-Roll and Pre-Revocation",14.5
+2019-03-24,"Post-Roll and Pre-Revocation",16.75
+2018-08-10,"Post-Removal",11
+2018-08-21,"Post-Roll and Pre-Revocation",22
+2018-09-29,"Post-Roll and Pre-Revocation",14.75
+2018-10-08,"Post-Roll and Pre-Revocation",14
+2018-10-08,"Post-Removal",7
+2018-10-24,"Post-Roll / Pre-Revocation and Post-Removal",42245.75
+2018-11-07,"Post-Roll / Pre-Revocation and Post-Removal",47901.75
+2018-11-27,"Post-Removal",7.5
+2018-11-30,"Post-Roll / Pre-Revocation and Post-Removal",36885.5
+2018-12-07,"Post-Removal",46.25
+2018-12-20,"Post-Removal",7.25
+2018-12-20,"Post-Roll and Pre-Revocation",53773.5
+2019-02-11,"Post-Roll and Pre-Revocation",20.25
+2019-02-22,"Post-Roll and Pre-Revocation",12.75
+2019-03-27,"Post-Removal",31963.75
+2018-08-03,"Post-Roll and Pre-Revocation",23
+2018-08-20,"Post-Removal",8.75
+2018-08-22,"Post-Roll and Pre-Revocation",22.75
+2018-09-28,"Post-Roll and Pre-Revocation",15.5
+2018-10-14,"Post-Roll and Pre-Revocation",30090.5
+2018-10-22,"Post-Roll and Pre-Revocation",35662.25
+2018-10-28,"Post-Roll and Pre-Revocation",47999
+2018-11-22,"Post-Roll and Pre-Revocation",45983.5
+2018-12-16,"Post-Roll and Pre-Revocation",45393
+2019-01-01,"Post-Removal",7.5
+2019-01-04,"Post-Roll / Pre-Revocation and Post-Removal",44892.75
+2019-01-20,"Post-Roll / Pre-Revocation and Post-Removal",833.25
+2019-02-23,"Post-Roll / Pre-Revocation and Post-Removal",927
+2019-02-27,"Post-Removal",6.75
+2019-03-03,"Post-Removal",6
+2019-03-08,"Post-Roll / Pre-Revocation and Post-Removal",907
+2018-08-16,"Post-Roll and Pre-Revocation",25.25
+2018-08-23,"Post-Roll and Pre-Revocation",28.5
+2018-09-05,"Post-Roll / Pre-Revocation and Post-Removal",22.5
+2018-09-17,"Post-Removal",8.25
+2018-09-17,"Post-Roll and Pre-Revocation",13
+2018-09-27,"Post-Roll and Pre-Revocation",15.5
+2018-10-04,"Post-Removal",7.25
+2018-12-17,"Post-Roll and Pre-Revocation",47856.75
+2019-01-15,"Post-Removal",8.25
+2019-01-21,"Post-Roll and Pre-Revocation",14.25
+2019-02-16,"Post-Roll / Pre-Revocation and Post-Removal",22.5
+2019-02-24,"Post-Roll and Pre-Revocation",16.25
+2018-08-07,"Post-Roll and Pre-Revocation",26
+2018-08-17,"Post-Roll / Pre-Revocation and Post-Removal",30.75
+2018-08-18,"Post-Roll / Pre-Revocation and Post-Removal",24.75
+2018-09-07,"Post-Roll and Pre-Revocation",23
+2018-09-10,"Post-Removal",10.5
+2018-09-24,"Post-Removal",7
+2018-10-17,"Post-Removal",60.5
+2018-11-13,"Post-Removal",8
+2018-11-15,"Post-Roll and Pre-Revocation",55082.25
+2019-01-14,"Post-Roll and Pre-Revocation",12.25
+2019-01-30,"Post-Roll / Pre-Revocation and Post-Removal",447
+2019-02-06,"Post-Roll and Pre-Revocation",14.5
+2019-02-18,"Post-Roll / Pre-Revocation and Post-Removal",956.25
+2019-03-08,"Post-Roll and Pre-Revocation",17.75
+2019-03-25,"Post-Removal",16415.5
+2019-03-28,"Post-Roll / Pre-Revocation and Post-Removal",62889
+2018-08-19,"Post-Roll and Pre-Revocation",28.25
+2018-08-31,"Post-Roll and Pre-Revocation",19.75
+2018-09-16,"Post-Roll / Pre-Revocation and Post-Removal",36
+2018-09-19,"Post-Roll and Pre-Revocation",11.25
+2018-09-20,"Post-Roll and Pre-Revocation",16.5
+2018-09-28,"Post-Removal",6.75
+2018-10-07,"Post-Removal",8
+2018-10-13,"Post-Roll and Pre-Revocation",29386
+2018-11-04,"Post-Roll and Pre-Revocation",49735
+2018-12-10,"Post-Removal",87.25
+2018-12-10,"Post-Roll and Pre-Revocation",47875.5
+2018-12-28,"Post-Removal",8.5
+2019-01-23,"Post-Roll / Pre-Revocation and Post-Removal",842.25
+2019-01-31,"Post-Removal",4.25
+2019-02-14,"Post-Roll and Pre-Revocation",18.5
+2019-02-20,"Post-Roll and Pre-Revocation",17
+2018-08-01,"Post-Roll / Pre-Revocation and Post-Removal",33.5
+2018-08-01,"Post-Removal",10
+2018-08-08,"Post-Removal",9.5
+2018-08-20,"Post-Roll and Pre-Revocation",22.75
+2018-10-06,"Post-Roll and Pre-Revocation",13.75
+2018-10-16,"Post-Roll / Pre-Revocation and Post-Removal",34454.5
+2019-01-02,"Post-Roll and Pre-Revocation",55162.5
+2019-01-12,"Post-Removal",6.75
+2019-01-15,"Post-Roll and Pre-Revocation",12.25
+2019-01-18,"Post-Roll and Pre-Revocation",21.5
+2019-02-21,"Post-Roll and Pre-Revocation",14
+2019-02-26,"Post-Roll / Pre-Revocation and Post-Removal",1002
+2018-08-14,"Post-Removal",8.75
+2018-08-29,"Post-Roll / Pre-Revocation and Post-Removal",26
+2018-09-29,"Post-Roll / Pre-Revocation and Post-Removal",40.75
+2018-11-12,"Post-Roll and Pre-Revocation",45946.75
+2018-11-18,"Post-Roll and Pre-Revocation",54071
+2019-01-03,"Post-Roll / Pre-Revocation and Post-Removal",48263.25
+2019-01-05,"Post-Roll and Pre-Revocation",66469
+2019-01-17,"Post-Removal",8
+2019-01-22,"Post-Removal",6
+2019-02-02,"Post-Removal",4.75
+2019-03-24,"Post-Removal",6416
+2018-10-17,"Post-Roll and Pre-Revocation",30953.25
+2018-10-25,"Post-Removal",6.5
+2019-01-05,"Post-Roll / Pre-Revocation and Post-Removal",42763
+2019-01-17,"Post-Roll and Pre-Revocation",19
+2019-02-05,"Post-Removal",6.5
+2018-09-09,"Post-Removal",8.5
+2018-10-17,"Post-Roll / Pre-Revocation and Post-Removal",30791.75
+2018-11-07,"Post-Removal",12.25
+2018-12-03,"Post-Removal",11.5
+2018-12-09,"Post-Removal",34.25
+2019-02-14,"Post-Roll / Pre-Revocation and Post-Removal",18
+2019-03-10,"Post-Removal",6.33333333333333
+2019-03-29,"Post-Roll and Pre-Revocation",16.25
+2019-04-01,"Post-Removal",11656.25
+2018-09-08,"Post-Roll / Pre-Revocation and Post-Removal",25.25
+2018-09-09,"Post-Roll and Pre-Revocation",19.25
+2018-11-03,"Post-Roll and Pre-Revocation",39810.75
+2018-11-29,"Post-Roll / Pre-Revocation and Post-Removal",30941.5
+2018-12-28,"Post-Roll / Pre-Revocation and Post-Removal",32790.75
+2018-12-31,"Post-Removal",8.25
+2018-12-31,"Post-Roll and Pre-Revocation",52851.5
+2019-01-08,"Post-Removal",7.25
+2019-01-14,"Post-Removal",4.75
+2019-03-10,"Post-Roll and Pre-Revocation",16.5
+2018-08-04,"Post-Removal",9.75
+2018-08-04,"Post-Roll and Pre-Revocation",21.75
+2018-08-29,"Post-Removal",8.75
+2018-09-15,"Post-Roll / Pre-Revocation and Post-Removal",33.5
+2018-09-18,"Post-Removal",11.25
+2018-12-21,"Post-Roll and Pre-Revocation",47544.5
+2018-12-24,"Post-Removal",11.5
+2019-02-15,"Post-Roll and Pre-Revocation",16.25
+2019-02-21,"Post-Removal",8.25
+2019-03-11,"Post-Roll and Pre-Revocation",14.5
+2018-08-11,"Post-Removal",7.25
+2018-08-23,"Post-Removal",10.25
+2018-09-04,"Post-Removal",8.25
+2018-12-02,"Post-Roll and Pre-Revocation",61630.25
+2018-12-21,"Post-Roll / Pre-Revocation and Post-Removal",40746
+2019-01-19,"Post-Removal",6.75
+2019-01-26,"Post-Roll and Pre-Revocation",12
+2019-02-24,"Post-Roll / Pre-Revocation and Post-Removal",1090
+2018-10-28,"Post-Removal",8
+2018-11-15,"Post-Removal",8
+2019-01-07,"Post-Roll and Pre-Revocation",65217.25
+2019-01-24,"Post-Roll / Pre-Revocation and Post-Removal",832.25
+2019-02-26,"Post-Removal",4.75
+2019-03-01,"Post-Roll and Pre-Revocation",17.5
+2018-08-24,"Post-Roll and Pre-Revocation",26.5
+2018-09-16,"Post-Roll and Pre-Revocation",12.5
+2018-10-18,"Post-Roll and Pre-Revocation",14664
+2018-10-21,"Post-Removal",5.25
+2018-11-28,"Post-Removal",10
+2018-12-26,"Post-Roll and Pre-Revocation",58522
+2019-01-31,"Post-Roll / Pre-Revocation and Post-Removal",828.5
+2019-02-25,"Post-Roll and Pre-Revocation",17.75
+2019-03-06,"Post-Roll / Pre-Revocation and Post-Removal",974.75
+2019-03-17,"Post-Roll and Pre-Revocation",13.5
+2018-09-30,"Post-Roll and Pre-Revocation",12.5
+2018-11-24,"Post-Roll and Pre-Revocation",59608.25
+2018-12-06,"Post-Removal",7.5
+2019-01-02,"Post-Removal",9.5
+2019-01-17,"Post-Roll / Pre-Revocation and Post-Removal",800
+2019-01-29,"Post-Removal",6
+2018-08-25,"Post-Removal",7.25
+2018-09-04,"Post-Roll and Pre-Revocation",18.25
+2018-09-12,"Post-Removal",9.5
+2018-09-14,"Post-Roll and Pre-Revocation",10
+2018-09-19,"Post-Removal",10
+2018-12-09,"Post-Roll and Pre-Revocation",53326.25
+2018-12-11,"Post-Removal",73.5
+2019-03-05,"Post-Roll and Pre-Revocation",16.5
+2019-04-01,"Post-Roll and Pre-Revocation",17.25
+2018-09-01,"Post-Removal",8.5
+2018-09-25,"Post-Removal",9
+2018-10-23,"Post-Roll and Pre-Revocation",34053.25
+2018-12-23,"Post-Roll and Pre-Revocation",47249.75
+2019-02-16,"Post-Roll and Pre-Revocation",15.25
+2019-02-19,"Post-Removal",5
+2019-03-02,"Post-Removal",6.75
+2019-03-14,"Post-Roll / Pre-Revocation and Post-Removal",663.5
+2019-03-26,"Post-Removal",24525.25
+2018-09-21,"Post-Roll and Pre-Revocation",14.5
+2018-12-12,"Post-Removal",8
+2019-01-28,"Post-Roll and Pre-Revocation",21.25
+2018-09-26,"Post-Roll / Pre-Revocation and Post-Removal",28
+2018-11-08,"Post-Roll and Pre-Revocation",53036
+2018-11-25,"Post-Removal",10.5
+2019-02-24,"Post-Removal",7.25
+2019-03-15,"Post-Roll and Pre-Revocation",17.25
+2018-08-05,"Post-Removal",11
+2018-08-18,"Post-Removal",10
+2018-12-08,"Post-Removal",35
+2019-01-11,"Post-Removal",154
+2019-02-21,"Post-Roll / Pre-Revocation and Post-Removal",997.5
+2019-03-16,"Post-Roll / Pre-Revocation and Post-Removal",534
+2018-09-25,"Post-Roll and Pre-Revocation",16.25
+2018-12-30,"Post-Roll and Pre-Revocation",51266.25
+2018-08-19,"Post-Roll / Pre-Revocation and Post-Removal",25.75
+2018-09-05,"Post-Roll and Pre-Revocation",20.5
+2018-09-08,"Post-Removal",10
+2018-09-22,"Post-Removal",14
+2018-10-15,"Post-Removal",75.25
+2018-10-29,"Post-Removal",7.75
+2018-11-11,"Post-Removal",8.25
+2018-11-13,"Post-Roll and Pre-Revocation",48040
+2019-02-04,"Post-Roll and Pre-Revocation",9.25
+2019-03-05,"Post-Removal",6
+2019-03-23,"Post-Removal",976
+2018-09-26,"Post-Removal",8.25
+2019-02-12,"Post-Roll and Pre-Revocation",15
+2018-09-20,"Post-Removal",10
+2018-11-08,"Post-Roll / Pre-Revocation and Post-Removal",49019.25
+2018-12-15,"Post-Removal",10.75
+2019-01-13,"Post-Removal",9.5
+2019-01-23,"Post-Roll and Pre-Revocation",12.25
+2019-02-19,"Post-Roll and Pre-Revocation",18.5
+2018-08-12,"Post-Removal",10.25
+2018-11-10,"Post-Roll and Pre-Revocation",57297.75
+2019-01-20,"Post-Removal",6.75
+2019-02-01,"Post-Removal",6.5
+2019-02-13,"Post-Removal",5.25
+2018-10-05,"Post-Removal",6.5
+2018-11-11,"Post-Roll and Pre-Revocation",50851
+2019-02-18,"Post-Removal",7.25
+2018-09-07,"Post-Removal",8.5
+2018-10-12,"Post-Removal",61
+2018-10-24,"Post-Removal",7.75
+2018-12-01,"Post-Removal",7.25
+2018-12-03,"Post-Roll and Pre-Revocation",44982.75
+2019-03-30,"Post-Removal",34025.25
+2018-12-29,"Post-Removal",8.5
+2019-01-06,"Post-Removal",9.25
+2019-03-26,"Post-Roll and Pre-Revocation",13.5
+2018-08-02,"Post-Removal",9
+2018-09-08,"Post-Roll and Pre-Revocation",20
+2018-12-19,"Post-Roll and Pre-Revocation",47292.5
+2019-02-03,"Post-Removal",6.25
+2019-03-20,"Post-Removal",5.25
+2018-08-09,"Post-Removal",9.75
+2018-09-02,"Post-Removal",8.25
+2018-09-29,"Post-Removal",6.5
+2019-01-05,"Post-Removal",8.5
+2019-01-24,"Post-Roll and Pre-Revocation",16
+2019-02-10,"Post-Removal",6
+2019-02-22,"Post-Removal",7.75
+2018-10-26,"Post-Removal",9.25
+2018-10-16,"Post-Roll and Pre-Revocation",34682
+2018-11-02,"Post-Removal",8
+2018-11-26,"Post-Removal",21.25
+2018-12-22,"Post-Removal",11.5
+2018-12-24,"Post-Roll and Pre-Revocation",47985.25
+2019-02-08,"Post-Removal",5.5
+2019-03-17,"Post-Removal",3
+2019-01-27,"Post-Removal",4.5
+2019-02-09,"Post-Removal",5.5
+2019-03-29,"Post-Removal",36285.25
+2018-09-16,"Post-Removal",8.25
+2019-03-11,"Post-Removal",4.75
+2018-08-13,"Post-Roll and Pre-Revocation",25.25
+2018-08-30,"Post-Removal",9.75
+2018-10-19,"Post-Removal",7.75
+2018-10-21,"Post-Roll and Pre-Revocation",22763.5
+2018-09-13,"Post-Removal",7.75
+2018-10-15,"Post-Roll and Pre-Revocation",37615
+2018-10-18,"Post-Removal",14.5
+2018-11-06,"Post-Roll and Pre-Revocation",44036
+2018-08-16,"Post-Removal",10.25
+2018-08-18,"Post-Roll and Pre-Revocation",26
+2019-01-09,"Post-Removal",8
+2019-01-30,"Post-Removal",5.75
+2019-03-14,"Post-Removal",4.75
+2018-10-01,"Post-Removal",7.5
+2018-10-13,"Post-Removal",45.25
+2019-02-02,"Post-Roll and Pre-Revocation",15
+2018-10-03,"Post-Removal",10.5
+2019-01-31,"Post-Roll and Pre-Revocation",12.5
+2019-01-18,"Post-Removal",5.5
+2018-11-18,"Post-Removal",8.75
+2018-08-11,"Post-Roll / Pre-Revocation and Post-Removal",24.75
+2018-10-10,"Post-Removal",8.25
+2018-10-22,"Post-Removal",8.75
+2019-02-23,"Post-Roll and Pre-Revocation",17.5
+2018-12-27,"Post-Removal",11
+2019-03-06,"Post-Removal",7.25
+2018-08-07,"Post-Removal",6.75
+2019-02-20,"Post-Removal",6.75
+2018-10-31,"Post-Removal",7.5
+2019-02-06,"Post-Removal",5
+2018-09-26,"Post-Roll and Pre-Revocation",14.25
+2018-11-14,"Post-Removal",9.5
+2019-01-25,"Post-Removal",6
+2019-03-07,"Post-Removal",4.75
+2018-08-21,"Post-Removal",6.5
+2019-03-09,"Post-Removal",6.25
+2019-03-22,"Post-Removal",7.5
+2018-11-21,"Post-Removal",18.5
+2019-01-25,"Post-Roll and Pre-Revocation",14.5
+2018-09-11,"Post-Removal",9.5
+2019-03-12,"Post-Removal",5
+2019-03-31,"Post-Removal",24323.25
+2019-01-28,"Post-Removal",7.25
+2018-10-20,"Post-Removal",6.75
+2019-01-29,"Post-Roll and Pre-Revocation",12.5
+2018-09-03,"Post-Roll and Pre-Revocation",18
+2018-12-25,"Post-Removal",9
+2019-02-17,"Post-Removal",7.25
+2018-11-16,"Post-Removal",5.75
+2018-08-19,"Post-Removal",5.75
+2018-08-26,"Post-Removal",8
+2018-11-12,"Post-Removal",5.75
+2018-11-19,"Post-Removal",7.5
+2018-08-14,"Post-Roll and Pre-Revocation",24.25
+2019-03-30,"Post-Roll and Pre-Revocation",13.75
+2018-08-11,"Post-Roll and Pre-Revocation",27.5
+2019-01-07,"Post-Removal",7.25
+2018-09-30,"Post-Removal",8
+2018-12-23,"Post-Removal",7
+2019-02-15,"Post-Removal",5
+2018-11-08,"Post-Removal",8.5
+2018-08-17,"Post-Removal",10.75
+2018-11-10,"Post-Removal",9
+2019-01-26,"Post-Removal",6.5
+2019-03-28,"Post-Roll and Pre-Revocation",17.75
+2018-12-21,"Post-Removal",7.25
+2018-08-15,"Post-Removal",6.5
+2018-09-05,"Post-Removal",7.25
+2019-01-03,"Post-Removal",66.25
+2018-11-29,"Post-Removal",20
