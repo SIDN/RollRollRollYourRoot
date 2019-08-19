@@ -4,7 +4,7 @@ This is the Data Repository of the IMC 19 paper
 ## Abstract
 
 The DNS Security Extensions (DNSSEC) add authenticity and integrity to
-\textit{the} naming system of the Internet. Resolvers that validate
+_the_ naming system of the Internet. Resolvers that validate
 information in the DNS need to know the cryptographic public key
 used to sign the root zone of the DNS. Eight years after the introduction of this
 key and one year after it was scheduled originally, this key was replaced by ICANN for
