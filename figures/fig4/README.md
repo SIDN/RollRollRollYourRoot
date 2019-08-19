@@ -1,9 +1,13 @@
 Data from A/J root long term RFC8145 data stored in Verisign Compute Cluster
 
 Date    - Date
+
 T19036  - Count of IPs that sent any signal containing KSK-2010
+
 T20326  - Count of IPs that sent any signal containing KSK-2017
+
 TIANA   - Count of IPs that sent any signal containing either KSK-2010 OR KSK-2017
+
 
 Mixed Signals
 
