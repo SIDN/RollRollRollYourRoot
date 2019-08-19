@@ -1,0 +1,55 @@
+#!/usr/bin/env Rscript
+
+require(readr)
+require(ggplot2)
+
+data_path = '.'
+plot_path = '.'
+
+data_csv <- paste(data_path, '/', 'keytags5.csv', sep='')
+df <- read_csv(data_csv)
+
+p <- ggplot(df, aes(x=as.Date(date)))
+p <- p +geom_line(aes(y=t19036/tiana, colour="KSK-2010"))
+p <- p +geom_line(aes(y=t20326/tiana, colour="KSK-2017"))
+p <- p +geom_segment(aes(x=as.Date("2017-07-11"), xend=as.Date("2017-07-11"), y=0, yend=1.0), size=0.25, linetype='dashed')
+p <- p +annotate('text', x=as.Date("2017-07-09"), y=0.5, hjust=0.5, vjust=0, label='KSK-2017 added to zone', angle=90,size=4.5,lineheight=0.8)
+p <- p +annotate('rect', xmin=as.Date("2017-07-11"), xmax=as.Date("2017-08-10"), ymin=0, ymax=1.0, fill='blue', alpha=0.1)
+p <- p +annotate('text', x=as.Date("2017-07-27"), y=0.5, hjust=0.5, vjust=0.5, label='RFC 5011\nadd\nhold-down', lineheight=0.8,size=4.5)
+p <- p +xlim(c(as.Date("2017-05-01"), as.Date("2017-10-01")))
+p <- p +ylab('Fraction of signallers')
+p <- p +theme(axis.title.x = element_blank())
+p <- p +labs(colour="Keytag")
+p <- p +theme(legend.position = c(0.225, 0.5))
+p <- p +theme(axis.text.x = element_text(size=12))
+p <- p +theme(axis.text.y = element_text(size=12))
+p <- p +theme(axis.title.y = element_text(size=14))
+p <- p +theme(legend.text = element_text(size=12))
+p <- p +theme(legend.title = element_blank())
+
+plot_name <- paste(plot_path, '/', 'rfc8145-early-percents.pdf', sep='')
+ggsave(plot_name, p, device="pdf", width=16, height=8, dpi=300, units="cm")
+
+q <- ggplot(df, aes(x=as.Date(date)))
+q <- q +geom_line(aes(y=t19036/tiana, colour="KSK-2010"))
+q <- q +geom_line(aes(y=t20326/tiana, colour="KSK-2017"))
+q <- q +xlim(c(as.Date("2018-08-01"), as.Date("2019-07-31")))
+q <- q +ylab('Fraction of signallers')
+q <- q +theme(axis.title.x = element_blank())
+q <- q +labs(colour="Keytag")
+q <- q +theme(legend.position = c(0.85, 0.75))
+q <- q +geom_segment(aes(x=as.Date("2018-10-11"), xend=as.Date("2018-10-11"), y=0, yend=1), size=0.25, linetype='dashed', colour="black")
+q <- q +geom_segment(aes(x=as.Date("2019-01-11"), xend=as.Date("2019-01-11"), y=0, yend=1), size=0.25, linetype='dashed', colour="black")
+q <- q +geom_segment(aes(x=as.Date("2019-03-22"), xend=as.Date("2019-03-22"), y=0, yend=1), size=0.25, linetype='dashed', colour="black")
+q <- q +annotate('rect', xmin=as.Date("2018-08-01"), xmax=as.Date("2018-10-11"), ymin=0, ymax=1, alpha=0.2)
+q <- q +annotate('rect', xmin=as.Date("2018-10-11"), xmax=as.Date("2019-01-11"), ymin=0, ymax=1, alpha=0.1)
+q <- q +annotate('rect', xmin=as.Date("2019-01-11"), xmax=as.Date("2019-03-22"), ymin=0, ymax=1, alpha=0.2)
+q <- q +annotate('rect', xmin=as.Date("2019-03-22"), xmax=as.Date("2019-07-31"), ymin=0, ymax=1, alpha=0.1)
+q <- q +annotate('text', x=as.Date("2018-10-09"), y=0.5, hjust=0.5, vjust=0, label='Rollover', angle=90, size=5)
+q <- q +annotate('text', x=as.Date("2019-01-09"), y=0.5, hjust=0.5, vjust=0, label='Revocation', angle=90, size=5)
+q <- q +annotate('text', x=as.Date("2019-03-20"), y=0.5, hjust=0.5, vjust=0, label='Removal', angle=90, size=5)
+q <- q +theme(legend.text = element_text(size=12))
+q <- q +theme(legend.title = element_blank())
+
+plot_name <- paste(plot_path, '/', 'rfc8145-from-10d-before-roll.pdf', sep='')
+ggsave(plot_name, q, device="pdf", width=16, height=8, dpi=300, units="cm")
