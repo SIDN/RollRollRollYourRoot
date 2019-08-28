@@ -28,7 +28,7 @@ we propose improvements to the process for future rollovers.
 
 ## Content
 
-This repository contains two directories:
+This repository contains three directories:
 
 ### figures
 
@@ -37,3 +37,8 @@ This directory contains the data and code which is necessary to create the figur
 ### code 
 
 This directory contains the full source code of the experiments carried out in Section 4.3.2 to identify a bug in a recursive resolver software. 
+
+### data/RFC8145
+
+This directory contains raw, but anonymized, RFC 8145 data from root
+name servers operated by Verisign.
